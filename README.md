@@ -1,2 +1,2 @@
-# Ahmed Sorour
-this is Ahmed's git practice repo
+# Sample
+this is my git practice repo
