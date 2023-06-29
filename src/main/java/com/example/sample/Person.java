@@ -4,10 +4,10 @@ import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 
 public class Person {
-    String title;
-    String firstName;
-    String lastName;
-    LocalDate dob;
+    public String title;
+    public String firstName;
+    public String lastName;
+    public LocalDate dob;
 
     public Person (String title, String firstName, String lastName, String dob){
         this. title = title;
